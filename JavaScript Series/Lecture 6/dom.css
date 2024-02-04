@@ -1,0 +1,15 @@
+h1 {
+  color: purple;
+  text-decoration: "line-through";
+  background-color: aquamarine;
+}
+
+button {
+  color:red;
+  text-decoration-color: blue;
+  background-color: whitesmoke;
+}
+
+body { 
+  background-color: pink;
+}
